@@ -13,4 +13,4 @@ This project helped me understand that LinkedIn is not just about listing what y
 I’m still learning, but I’m glad my profile now feels clearer and more like me.
 
 ## Optional Recruiter Message
-Hi [Recruiter Name], I hope you’re doing well. I’m a Financial Engineering student interested in financial analysis, data analytics, risk analysis, and fintech. I’m currently building my skills in Python, SQL, Excel, and data analysis through projects and coursework. I’d be happy to connect and learn more about internship or entry-level opportunities in this field.
+Hello, hope you’re doing well. I’m a Financial Engineering student interested in financial analysis, data analytics, risk analysis, and fintech. I’m currently building my skills in Python, SQL, Excel, and data analysis through projects and coursework. I’d be happy to connect and learn more about internship or entry-level opportunities in this field.
