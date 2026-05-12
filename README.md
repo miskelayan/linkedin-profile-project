@@ -11,6 +11,3 @@ I’m a Financial Engineering student, and I’m still exploring where I fit bes
 This project helped me understand that LinkedIn is not just about listing what you studied or where you worked. It is also about showing your progress, your interests, and the direction you’re trying to build for yourself.
 
 I’m still learning, but I’m glad my profile now feels clearer and more like me.
-
-## Message
-Hello, hope you’re doing well. I’m a Financial Engineering student interested in financial analysis, data analytics, risk analysis, and fintech. I’m currently building my skills in Python, SQL, Excel, and data analysis through projects and coursework. I’d be happy to connect and learn more about internship or entry-level opportunities in this field.
